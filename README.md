@@ -1,5 +1,3 @@
-# Multi-Agent-Systems-for-Business-Decision-Plan
-
 # 🚀 FounderAI: Multi-Agent System for Business Planning
 
 ## 📌 Overview
